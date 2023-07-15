@@ -1,0 +1,109 @@
+body{
+    background-color: rgba(128, 128, 128, 0.932);
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    /* border: 1px solid green; */
+}
+.nav-header{
+    height: 60%;
+    width: 100%;
+    /* border: 1px dashed yellow; */
+}
+
+.secondary-nav-header{
+    height: 40%;
+    width: 100%;
+    border: 1px dashed rgb(0, 183, 255);
+}
+.inner-nav-logo{
+    height: 100%;
+    width: 10%;
+    border: 1px dashed brown;
+    float: left;
+
+}
+
+#amazon-prime-day{
+    height: 100%;
+    width: 40%;
+    /* float: left; */
+}
+#amazon-prime-day >img{
+    height: 100%;
+    width: 100%;
+    /* border: 1px dashed yellow;  */
+    /* float: left; */
+    /* display: inline-block; */
+}
+
+#inner-nav-logo-address{
+    height: 100%;
+    width: 15%;
+    border: 1px solid black;
+    float: left;
+    
+    /* position: absolute; */
+}
+
+
+#inner-nav-logo-address-logo{
+    height: 100%;
+    width: 20%;
+    float:right;
+    /* border: 0.5px dashed green; */
+}
+
+#inner-nav-logo-address-logo > span{
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid purple; */
+    text-align: center;
+
+}
+#inner-nav-logo-address-text{
+    height: 100%;
+    width: 80%;
+    /* float:left; */
+    /* border: 0.5px dashed red; */
+}
+
+#inner-nav-logo-address-text > span{
+    height: 50%;
+    width: 100%;
+    display: block;
+    /* border: 1px dashed black; */
+}
+
+.inner_nav-search{
+    height: 100%;
+    width: 40%;
+    background-color: aqua;
+    float: left;
+}
+
+.image-carousel{
+
+    height: 300px;
+    width: 100%;
+    border: 1px solid blue;
+}
+
+.container{
+    height: 600px;
+    width: 100%;
+    border: 1px solid pink;
+}
+.registeration-section{
+    height: 600px;
+    width: 100%;
+    border: 1px solid  yellow;
+}
+
+footer{
+    height: 200px;
+    width: 100%;
+    border: 1px solid  purple;
+}
